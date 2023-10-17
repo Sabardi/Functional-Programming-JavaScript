@@ -1,0 +1,1 @@
+primeList.map((element) => element + 2);
